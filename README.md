@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Joaquín Krasuk</h1>
 <h3 align="center"><b>Software Engineer</b> graduated from <a href="https://www.unlam.edu.ar/" target="_blank">UNLaM</a></h3>
 
-## Tecnologies
+## Technologies
 #### 🎨 Frontend 🎨
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](#)
